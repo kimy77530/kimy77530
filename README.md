@@ -10,7 +10,7 @@ Aloha 👋, I'm Kim Villegas
 </h1>
 
 <h3 align="center">
-An aspiring Data Scientist with a passion for learning and an endless supply of optimism and curiosity. I am analytical, detail-oriented, results-driven graduate stuent at Rice University. I am self-determined and curious about building new projects
+An aspiring Data Scientist with a passion for learning and an endless supply of optimism and curiosity. I am detail-oriented, analytical and a results-driven graduate student at Rice University. I am self-determined and curious about building new projects
 </h3> 
 
 
