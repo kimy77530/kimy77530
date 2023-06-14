@@ -15,10 +15,10 @@ An aspiring Data Scientist with a passion for learning and an endless supply of 
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/54326681/189259720-d90984c3-fd99-46f9-81a6-20a12db540f2.gif" alt="animated" />
 </p>
-
+ -->
 
 
 
